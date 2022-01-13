@@ -5,7 +5,7 @@
 <h3 align="center">A computer engineering major student from Morocco currently located in Nice,France.</h3>
 I'm currently enrolled in an engineering degree in Computer Science at the Sophia Antipolis engineering graduate school Polytech Nice-Sophia.
 </br>
-- 📫 How to reach me **hiba.khayati@etu.unice.fr**
+- 📫 How to reach me: hiba.khayati@etu.unice.fr
 
 
 # Languages and Tools :
