@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khayatihiba&label=Profile%20views&color=0e75b6&style=flat" alt="khayatihiba" /> </p>
 
 <h1 align="center">Hi 👋, I'm KHAYATI Hiba</h1>
-<h3 align="center">A computer engineering major student from Morocco currently located in Nice,France.</h3>
+<h3 align="center">A computer engineering major student located France.</h3>
 I'm currently enrolled in an engineering degree in Computer Science at the Sophia Antipolis engineering graduate school Polytech Nice-Sophia.
 </br>
 - 📫 How to reach me: hiba.khayati@etu.unice.fr
